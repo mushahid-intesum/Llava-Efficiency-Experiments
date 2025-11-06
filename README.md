@@ -6,3 +6,8 @@ This project attempted to investigate post-training pruning of attention tokens 
 
 Run the following command to install the relevant packages
 
+`
+pip install torch transformers seaborn matplotlib datasets 
+`
+
+Afterwards, run the provided IPython notebook.
